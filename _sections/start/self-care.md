@@ -13,6 +13,7 @@ title: Self Care
  - **Physical Health**
     - **Gyms**
       - [Pleasance Sports Centre](https://www.ed.ac.uk/sport-exercise) - 6am to 10pm weekdays, 9am to 8pm weekends
+      - [Village Gym] (https://www.villagegym.co.uk/locations/edinburgh) - Discounts available for Full Time Students
       - [PureGym Quartermile](https://www.puregym.com/gyms/edinburgh-quartermile/) - 24 hours
     - **Beginner's Fitness**
       - [SL 5x5](https://stronglifts.com/5x5) - Simple, effective strength routine.
